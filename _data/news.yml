@@ -1,55 +1,13 @@
 
-- time: October 2025
-  txt: Awarded an Impact Recognition from ACM CSCW! <a href="https://dl.acm.org/doi/10.1145/3711035">"Mitigating Trauma in Qualitative Research Infrastructure&#58; Roles for Machine Assistance and Trauma-Informed Design"</a> was co-authored with Nicki Dell and Tom Ristenpart.
-- time: October 2025
-  txt: Awarded a Google Academic Research Award!
+- time: Nov 2025
+  txt: >
+    "How LLM Counselors Violate Ethical Standards in Mental Health Practice:
+    A Practitioner-Informed Framework" was cited in <a href="https://www.forbes.com/sites/lanceeliot/2025/11/12/disturbing-ways-that-ai-for-mental-health-is-violating-proper-therapy-standards-and-heres-what-can-be-done-about-it"> Forbes </a>, <a href="https://www.theguardian.com/technology/2025/nov/02/openai-chatgpt-mental-health-problems-updates"> The Guardian </a>, and <a href="https://www.politico.com/newsletters/future-pulse/2025/10/30/a-rundown-on-ai-chatbot-bills-in-the-states-00629577"> Politico</a>!
+- time: September 2025
+  txt: Started my PhD at the University of Washington in Human Centered Design & Engineering, advised by <a href="https://emtseng.me/"> Dr. Emily Tseng!</a>!
 - time: August 2025
-  txt: Awarded a seed grant from the UW Community-Engaged Computing Initiative! 
-# - time: July 2023
-#   txt: Delighted to give a keynote at the Google Protecting At-Risk Users Workshop!
-# - time: June 2023
-#   txt: Honored to receive one of the inaugural Outstanding TA Awards from the Cornell Tech faculty! Teaching has been a vital part of my scholarly practice, and this is a wonderful recognition.
-# - time: June 2023
-#   txt: Attending the <a href="https://sociotech.net/2023-csst-summer-research-institute-boulder/">CSST Summer Research Institute</a> later in the month. Thrilled!
-# - time: June 2023
-#   txt: Honored to have moderated an incredible panel discussion at our <a href="https://facctconference.org/2023/acceptedcraft.html">ACM FAccT CRAFT</a> session, Community-Collaborative Visions for Computing Research. Excited that our CSCW workshop has also been accepted!
-# - time: June 2023
-#   txt: Presented several works at the <a href="https://privacyscholars.org/plsc-history/plsc-2023/">Privacy Law Scholars Conference</a> in Boulder, CO. Thank you to an incredibly welcoming community!
-# - time: February 2023
-#   txt: Thanks Cornell for this very nice <a href="https://gradschool.cornell.edu/spotlights/student-spotlight-emily-tseng/">student spotlight</a> on me and my work!
-# - time: November 2022
-#   txt: Had a wonderful time at the <a href="https://law.northeastern.edu/event/npsw/">Northeast Privacy Scholars Workshop</a>. Thanks for everything, NYU!
-# - time: October 2022
-#   txt: Learned so much at the <a href="https://risingstars.utexas.edu/">2022 Rising Stars in EECS</a> workshop. Thanks for the hospitality, UT Austin!
-# - time: October 2022
-#   txt: Spoke at the <a href="https://cs.uchicago.edu/events/event/emily-tseng-cornell-tech-understanding-and-mitigating-tech-abuse/">University of Chicago CS People and Technology seminar</a>. Thanks for having me!
-# - time: September 2022
-#   txt: Spoke at the AnitaB.org Grace Hopper Celebration in a session on award-winning research in HCI. Thanks CRA-WP for the invitation!
-# - time: July 2022
-#   txt: Spoke at the Google Trust and Safety Research Speaker Series. Thanks for having me!
-# - time: June 2022
-#   txt: Attended the Human-Computer Interaction Consortium in scenic Wisconsin.
-# - time: Summer 2022
-#   txt: Interning at Microsoft Research with Mary L. Gray.
-#- time: May 2022
-#  txt: Attended CHI in New Orleans presenting <a href="assets/Tseng-2022-CHI-Care-Infrastructures-Digital-Privacy-IPV.pdf" target="_blank">Care Infrastructures for Digital Security and Privacy in Intimate Partner Violence</a>, which earned a Best Paper Award!
-#- time: Spring 2022
-#  txt: Interning at Microsoft Research with Mary L. Gray.
-#- time: October 2021
-#  txt: Attending virtual CSCW. Organizing <a href="https://subtlecscwtraits.wordpress.com/">Subtle CSCW Traits</a>, a workshop convening social computing researchers with ties to the Asian diaspora, and attending a workshop on the <a href="https://sites.google.com/view/futureofcarework">Future of Care Work</a>.
-#- time: October 2021
-#  txt: Honored to earn a <a href="https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/#!people">Microsoft Research PhD Fellowship</a>!
-#- time: October 2021
-#  txt: Spoke at the <a href="https://www.dli.tech.cornell.edu/">Digital Life Initiative</a> at Cornell Tech.
-#- time: June 2021
-#  txt: TA'd for the Cornell CIS <a href="https://impact.infosci.cornell.edu/">Summer School for Social Impact</a>.
-# - time: May 2021
-#   txt: SVed at virtual CHI and presented our paper on <a href="assets/Tseng-2021-CHI_Digital-Safety-Dilemma_cam-ready.pdf" target="_blank">clinical computer security during COVID</a>.
-# - time: April 2021
-#   txt: Attended the CRA-WP Grad Cohort for Women.
-# - time: Spring 2021
-#   txt: TA for Jon Kleinberg & Karen Levy's undergrad tech ethics course, <a href="https://courses.cs.cornell.edu/cs1340/2021sp/" target="_blank">Choices and Consequences in Computing</a>.
-# - time: October 2020
-#   txt: Our <a href="assets/Bellini-2020-CSCW_Intimate-Partner-Surveillance.pdf" target="_blank">paper</a> on narrative justifications for intimate partner surveillance won a <span class="pub-award">Best Paper Award</span> at CSCW 2020! Cheers to first author Rosie Bellini!
-# - time: August 2020
-#   txt: Presented our <a href="assets/Tseng-2020-USENIX-Sec_Tools-Tactics-Intimate-Partner-Surveillance.pdf" target="_blank">paper</a> at USENIX Security. We show how intimate partner abusers develop surveillance strategies through online forums. Pleasantly surprised to win a <span class="pub-award">Distinguished Paper Award</span> and <span class="pub-award">third place in the Internet Defense Prize</span>!
+  txt: Awarded a seed grant from the UW Community-Engaged Computing Initiative
+- time: April 2025
+  txt: Awarded a fellowship through the NSF Graduate Research Fellowship Program (GRFP)
+- time: April 2025
+  txt: Awarded UW College of Engineering Dean's Fellowship
