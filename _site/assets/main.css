@@ -64,6 +64,13 @@ table th, table td { padding: 10px 15px; }
 table th { background-color: #f0f0f0; border: 1px solid #dedede; border-bottom-color: #c9c9c9; }
 table td { border: 1px solid #e8e8e8; }
 
+/* Animated gradient only for the header */
+.site-header { background: linear-gradient(-45deg, #a8c7f7, #f7c9b8, #d6b8f7, #a8f7d1); background-size: 400% 400%; animation: gradientShift 15s ease infinite; color: #222; /* header text color */ }
+
+/* Gradient animation */
+@keyframes gradientShift { 0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; } }
 /** Site header */
 .site-header { border-top: 5px solid #424242; border-bottom: 1px solid #e8e8e8; min-height: 55.95px; position: relative; }
 
